@@ -1,6 +1,6 @@
 # Age Calculator App in Python
 
-
+### There are two approaches by which you can reach the destination to build this app. The code below is not modular in that sense, however, you will find the code in the above "age-cal" sub-directory.
 
 
 

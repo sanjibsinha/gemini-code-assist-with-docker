@@ -1,0 +1,16 @@
+.timer {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.timer__display {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.timer__buttons button {
+  margin: 0 5px;
+  padding: 5px 10px;
+}
